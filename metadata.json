@@ -1,0 +1,6 @@
+{
+  "name": "GlobalNet - Free Internet",
+  "description": "Free global internet packages activator with SMS confirmation, package manager, and live connectivity dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
